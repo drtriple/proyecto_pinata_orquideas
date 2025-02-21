@@ -1,0 +1,6 @@
+C:\UNIVERSIDAD\PROGRAMACION_SOTFWARE\libOpeDescVta\bin\Debug\libOpeDescVta.dll
+C:\UNIVERSIDAD\PROGRAMACION_SOTFWARE\libOpeDescVta\bin\Debug\libOpeDescVta.pdb
+C:\UNIVERSIDAD\PROGRAMACION_SOTFWARE\libOpeDescVta\obj\Debug\libOpeDescVta.csproj.AssemblyReference.cache
+C:\UNIVERSIDAD\PROGRAMACION_SOTFWARE\libOpeDescVta\obj\Debug\libOpeDescVta.csproj.CoreCompileInputs.cache
+C:\UNIVERSIDAD\PROGRAMACION_SOTFWARE\libOpeDescVta\obj\Debug\libOpeDescVta.dll
+C:\UNIVERSIDAD\PROGRAMACION_SOTFWARE\libOpeDescVta\obj\Debug\libOpeDescVta.pdb

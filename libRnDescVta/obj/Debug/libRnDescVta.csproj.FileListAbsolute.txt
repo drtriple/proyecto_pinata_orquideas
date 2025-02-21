@@ -1,0 +1,6 @@
+C:\UNIVERSIDAD\PROGRAMACION_SOTFWARE\libRnDescVta\bin\Debug\libRnDescVta.dll
+C:\UNIVERSIDAD\PROGRAMACION_SOTFWARE\libRnDescVta\bin\Debug\libRnDescVta.pdb
+C:\UNIVERSIDAD\PROGRAMACION_SOTFWARE\libRnDescVta\obj\Debug\libRnDescVta.csproj.AssemblyReference.cache
+C:\UNIVERSIDAD\PROGRAMACION_SOTFWARE\libRnDescVta\obj\Debug\libRnDescVta.csproj.CoreCompileInputs.cache
+C:\UNIVERSIDAD\PROGRAMACION_SOTFWARE\libRnDescVta\obj\Debug\libRnDescVta.dll
+C:\UNIVERSIDAD\PROGRAMACION_SOTFWARE\libRnDescVta\obj\Debug\libRnDescVta.pdb

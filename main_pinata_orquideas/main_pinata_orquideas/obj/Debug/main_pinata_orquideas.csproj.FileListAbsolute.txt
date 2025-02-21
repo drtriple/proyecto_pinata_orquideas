@@ -1,0 +1,30 @@
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\practica_1\main_pinata_orquideas\main_pinata_orquideas\bin\Debug\main_pinata_orquideas.exe.config
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\practica_1\main_pinata_orquideas\main_pinata_orquideas\bin\Debug\main_pinata_orquideas.exe
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\practica_1\main_pinata_orquideas\main_pinata_orquideas\bin\Debug\main_pinata_orquideas.pdb
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\practica_1\main_pinata_orquideas\main_pinata_orquideas\obj\Debug\main_pinata_orquideas.csproj.AssemblyReference.cache
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\practica_1\main_pinata_orquideas\main_pinata_orquideas\obj\Debug\main_pinata_orquideas.Form1.resources
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\practica_1\main_pinata_orquideas\main_pinata_orquideas\obj\Debug\main_pinata_orquideas.Properties.Resources.resources
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\practica_1\main_pinata_orquideas\main_pinata_orquideas\obj\Debug\main_pinata_orquideas.csproj.GenerateResource.cache
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\practica_1\main_pinata_orquideas\main_pinata_orquideas\obj\Debug\main_pinata_orquideas.csproj.CoreCompileInputs.cache
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\practica_1\main_pinata_orquideas\main_pinata_orquideas\obj\Debug\main_pinata_orquideas.exe
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\practica_1\main_pinata_orquideas\main_pinata_orquideas\obj\Debug\main_pinata_orquideas.pdb
+C:\Users\salak406\Documents\Programacion de software\proyecto_pinata_orquideas-main\main_pinata_orquideas\main_pinata_orquideas\bin\Debug\main_pinata_orquideas.exe.config
+C:\Users\salak406\Documents\Programacion de software\proyecto_pinata_orquideas-main\main_pinata_orquideas\main_pinata_orquideas\bin\Debug\main_pinata_orquideas.exe
+C:\Users\salak406\Documents\Programacion de software\proyecto_pinata_orquideas-main\main_pinata_orquideas\main_pinata_orquideas\bin\Debug\main_pinata_orquideas.pdb
+C:\Users\salak406\Documents\Programacion de software\proyecto_pinata_orquideas-main\main_pinata_orquideas\main_pinata_orquideas\obj\Debug\main_pinata_orquideas.csproj.AssemblyReference.cache
+C:\Users\salak406\Documents\Programacion de software\proyecto_pinata_orquideas-main\main_pinata_orquideas\main_pinata_orquideas\obj\Debug\main_pinata_orquideas.Form1.resources
+C:\Users\salak406\Documents\Programacion de software\proyecto_pinata_orquideas-main\main_pinata_orquideas\main_pinata_orquideas\obj\Debug\main_pinata_orquideas.Properties.Resources.resources
+C:\Users\salak406\Documents\Programacion de software\proyecto_pinata_orquideas-main\main_pinata_orquideas\main_pinata_orquideas\obj\Debug\main_pinata_orquideas.csproj.GenerateResource.cache
+C:\Users\salak406\Documents\Programacion de software\proyecto_pinata_orquideas-main\main_pinata_orquideas\main_pinata_orquideas\obj\Debug\main_pinata_orquideas.csproj.CoreCompileInputs.cache
+C:\Users\salak406\Documents\Programacion de software\proyecto_pinata_orquideas-main\main_pinata_orquideas\main_pinata_orquideas\obj\Debug\main_pinata_orquideas.exe
+C:\Users\salak406\Documents\Programacion de software\proyecto_pinata_orquideas-main\main_pinata_orquideas\main_pinata_orquideas\obj\Debug\main_pinata_orquideas.pdb
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\proyecto_pinata_orquideas-main\main_pinata_orquideas\main_pinata_orquideas\obj\Debug\main_pinata_orquideas.csproj.AssemblyReference.cache
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\proyecto_pinata_orquideas-main\main_pinata_orquideas\main_pinata_orquideas\obj\Debug\main_pinata_orquideas.Form1.resources
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\proyecto_pinata_orquideas-main\main_pinata_orquideas\main_pinata_orquideas\obj\Debug\main_pinata_orquideas.Properties.Resources.resources
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\proyecto_pinata_orquideas-main\main_pinata_orquideas\main_pinata_orquideas\obj\Debug\main_pinata_orquideas.csproj.GenerateResource.cache
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\proyecto_pinata_orquideas-main\main_pinata_orquideas\main_pinata_orquideas\obj\Debug\main_pinata_orquideas.csproj.CoreCompileInputs.cache
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\proyecto_pinata_orquideas-main\main_pinata_orquideas\main_pinata_orquideas\obj\Debug\main_pinata_orquideas.exe
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\proyecto_pinata_orquideas-main\main_pinata_orquideas\main_pinata_orquideas\obj\Debug\main_pinata_orquideas.pdb
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\proyecto_pinata_orquideas-main\main_pinata_orquideas\main_pinata_orquideas\bin\Debug\main_pinata_orquideas.exe.config
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\proyecto_pinata_orquideas-main\main_pinata_orquideas\main_pinata_orquideas\bin\Debug\main_pinata_orquideas.exe
+D:\Datos\Desktop\ITM\QUINTO SEMESTRE\PROGRAMACION\proyecto_pinata_orquideas-main\main_pinata_orquideas\main_pinata_orquideas\bin\Debug\main_pinata_orquideas.pdb

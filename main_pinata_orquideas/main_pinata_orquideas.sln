@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "main_pinata_orquideas", "main_pinata_orquideas\main_pinata_orquideas.csproj", "{590D75A9-AC3A-41C6-93A7-CA3D35584C38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{590D75A9-AC3A-41C6-93A7-CA3D35584C38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{590D75A9-AC3A-41C6-93A7-CA3D35584C38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{590D75A9-AC3A-41C6-93A7-CA3D35584C38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{590D75A9-AC3A-41C6-93A7-CA3D35584C38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {235B349A-A3EA-4B7C-9A39-39E84120E47B}
+	EndGlobalSection
+EndGlobal
