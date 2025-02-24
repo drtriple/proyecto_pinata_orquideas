@@ -1,2 +1,3 @@
 # proyecto_pinata_orquideas
-Poryecto Academico
+Proyecto Academico
+Formulario de .NET para la facturación.
