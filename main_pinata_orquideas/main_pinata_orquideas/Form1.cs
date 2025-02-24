@@ -73,8 +73,28 @@ namespace main_pinata_orquideas
                 fltVrD = Convert.ToSingle(this.txtVDocena.Text);
                 fltVI = Convert.ToSingle(this.txtIVA.Text);
 
+                clsOpeDescVta op = new clsOpeDescVta();
+                op.Codigo = intCodi;
+                op.Cantidad = intCanti;
+                op.vrDocena = fltVrD;
+                op.porcIva = fltVI;
+
+                //Invocacion Tto de Error
+                if (!op.Facturar())
+                {
+                    mensaje(op.Error);
+                    op = null;
+                    return;
+                }
+                this.lblSubtotal.Text = op.subTotal.ToString();
+                this.lblPorcDscto.Text = op.porcDscto.ToString();
+                this.lblVrDscto.Text = op.vrDscto.ToString();
+                this.lblVrIVA.Text = op.vrIVA.ToString();
+                this.lblTotAPag.Text = op.totalAPagar.ToString();
+                
                 // Hacer visible el GroupBox
-                grpAPagar.Visible = true;
+                this.grpAPagar.Visible = true;
+                op = null;
             }
             catch (Exception ex)
             {

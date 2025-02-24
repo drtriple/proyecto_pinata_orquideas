@@ -72,22 +72,22 @@ namespace libOpeDescVta
         
          public float porcDscto //Porcentaje de Descuento
         {
-            get { return porcDscto; }
+            get { return fltPorcDscto; }
         }
 
         public int vrDscto  //Valo Descuento
         {
-           get { return vrDscto; }
+           get { return Convert.ToInt32(fltVrDscto); }
         }
 
         public float vrIVA //Valor IVA
         {
-            get { return vrIVA; }
+            get { return fltVrIVA; }
         }
 
         public float totalAPagar //Total A Pagar
         {
-          get { return totalAPagar; }
+          get { return fltTotAPag; }
         }
 
         public string Error //Error
@@ -138,13 +138,22 @@ namespace libOpeDescVta
 
                 //Enviar Información a RN
                 rN.Codigo = intCod;
+                rN.Cantidad = intCant;
 
                 //Invocación y Tratamiento del Error
-                rN.hallarDscto();
+                if (!rN.hallarDscto()) {
+                    strError = rN.Error;
+                    rN = null;
+                    return false;
+                }
+
                 //Recuperar Información 
+                fltPorcDscto = rN.Descuento;
+                rN = null;
+
 
                 //Procesar 
-                fltSubTot = intCant * fltVrDoc;
+                fltSubTot = intCant * fltVrDoc / 12;
                 fltVrDscto = (fltPorcDscto / 100) * fltSubTot;
                 fltVrIVA = ((fltSubTot - fltVrDscto) * fltPorcIva) / 100;
                 fltTotAPag = fltSubTot - fltVrDscto + fltVrIVA;
@@ -153,9 +162,9 @@ namespace libOpeDescVta
                 return true;
 
             }
-            catch (Exception ex) 
+            catch (Exception) 
             {
-                 strError = " Error en facturar " ;
+                 strError = " Error en facturar" ;
                 return false;   
             }
         }

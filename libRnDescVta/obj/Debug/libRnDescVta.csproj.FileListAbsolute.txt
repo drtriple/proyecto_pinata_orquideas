@@ -4,3 +4,9 @@ C:\UNIVERSIDAD\PROGRAMACION_SOTFWARE\libRnDescVta\obj\Debug\libRnDescVta.csproj.
 C:\UNIVERSIDAD\PROGRAMACION_SOTFWARE\libRnDescVta\obj\Debug\libRnDescVta.csproj.CoreCompileInputs.cache
 C:\UNIVERSIDAD\PROGRAMACION_SOTFWARE\libRnDescVta\obj\Debug\libRnDescVta.dll
 C:\UNIVERSIDAD\PROGRAMACION_SOTFWARE\libRnDescVta\obj\Debug\libRnDescVta.pdb
+C:\Users\salak406\Documents\proyecto_pinata_orquideas-main\libRnDescVta\bin\Debug\libRnDescVta.dll
+C:\Users\salak406\Documents\proyecto_pinata_orquideas-main\libRnDescVta\bin\Debug\libRnDescVta.pdb
+C:\Users\salak406\Documents\proyecto_pinata_orquideas-main\libRnDescVta\obj\Debug\libRnDescVta.csproj.AssemblyReference.cache
+C:\Users\salak406\Documents\proyecto_pinata_orquideas-main\libRnDescVta\obj\Debug\libRnDescVta.csproj.CoreCompileInputs.cache
+C:\Users\salak406\Documents\proyecto_pinata_orquideas-main\libRnDescVta\obj\Debug\libRnDescVta.dll
+C:\Users\salak406\Documents\proyecto_pinata_orquideas-main\libRnDescVta\obj\Debug\libRnDescVta.pdb

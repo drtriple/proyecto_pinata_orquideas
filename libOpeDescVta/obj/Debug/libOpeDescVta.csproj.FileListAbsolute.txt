@@ -4,3 +4,12 @@ C:\UNIVERSIDAD\PROGRAMACION_SOTFWARE\libOpeDescVta\obj\Debug\libOpeDescVta.cspro
 C:\UNIVERSIDAD\PROGRAMACION_SOTFWARE\libOpeDescVta\obj\Debug\libOpeDescVta.csproj.CoreCompileInputs.cache
 C:\UNIVERSIDAD\PROGRAMACION_SOTFWARE\libOpeDescVta\obj\Debug\libOpeDescVta.dll
 C:\UNIVERSIDAD\PROGRAMACION_SOTFWARE\libOpeDescVta\obj\Debug\libOpeDescVta.pdb
+C:\Users\salak406\Documents\proyecto_pinata_orquideas-main\libOpeDescVta\bin\Debug\libOpeDescVta.dll
+C:\Users\salak406\Documents\proyecto_pinata_orquideas-main\libOpeDescVta\bin\Debug\libOpeDescVta.pdb
+C:\Users\salak406\Documents\proyecto_pinata_orquideas-main\libOpeDescVta\bin\Debug\libRnDescVta.dll
+C:\Users\salak406\Documents\proyecto_pinata_orquideas-main\libOpeDescVta\bin\Debug\libRnDescVta.pdb
+C:\Users\salak406\Documents\proyecto_pinata_orquideas-main\libOpeDescVta\obj\Debug\libOpeDescVta.csproj.AssemblyReference.cache
+C:\Users\salak406\Documents\proyecto_pinata_orquideas-main\libOpeDescVta\obj\Debug\libOpeDescVta.csproj.CoreCompileInputs.cache
+C:\Users\salak406\Documents\proyecto_pinata_orquideas-main\libOpeDescVta\obj\Debug\libOpeDe.83C15E03.Up2Date
+C:\Users\salak406\Documents\proyecto_pinata_orquideas-main\libOpeDescVta\obj\Debug\libOpeDescVta.dll
+C:\Users\salak406\Documents\proyecto_pinata_orquideas-main\libOpeDescVta\obj\Debug\libOpeDescVta.pdb

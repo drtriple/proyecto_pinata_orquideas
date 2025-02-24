@@ -103,21 +103,8 @@ namespace libRnDescVta
                 return false;
             return leerArchivo();  //Evita operaciones innecesarias, asegurando que solo se lee el archivo cuando los datos cumplen ciertos requisitos.
         }
+
         #endregion
  
     }
 }
-
-
-/*
-ESTUDIAR
-
-Convert.ToSingle
-Codigo misil
-Codigo maquina
-Referenciar una clase
-Utilizar Try Catch
-Como documentar una propiedad
-
-
- */

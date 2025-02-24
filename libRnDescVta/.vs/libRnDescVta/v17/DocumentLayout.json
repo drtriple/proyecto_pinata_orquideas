@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\salak406\\Documents\\proyecto_pinata_orquideas-main\\libOpeDescVta\\",
+  "WorkspaceRootPath": "C:\\Users\\salak406\\Documents\\proyecto_pinata_orquideas-main\\libRnDescVta\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D45E5478-EDDF-41C5-A373-A45C4E70DB9C}|libOpeDescVta.csproj|c:\\users\\salak406\\documents\\proyecto_pinata_orquideas-main\\libopedescvta\\clsopedescvta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D45E5478-EDDF-41C5-A373-A45C4E70DB9C}|libOpeDescVta.csproj|solutionrelative:clsopedescvta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{152DE4C2-B3AD-445C-AA47-DF0AB0B7D00C}|libRnDescVta.csproj|c:\\users\\salak406\\documents\\proyecto_pinata_orquideas-main\\librndescvta\\clsrndescvta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{152DE4C2-B3AD-445C-AA47-DF0AB0B7D00C}|libRnDescVta.csproj|solutionrelative:clsrndescvta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,14 +35,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "clsOpeDescVta.cs",
-              "DocumentMoniker": "C:\\Users\\salak406\\Documents\\proyecto_pinata_orquideas-main\\libOpeDescVta\\clsOpeDescVta.cs",
-              "RelativeDocumentMoniker": "clsOpeDescVta.cs",
-              "ToolTip": "C:\\Users\\salak406\\Documents\\proyecto_pinata_orquideas-main\\libOpeDescVta\\clsOpeDescVta.cs",
-              "RelativeToolTip": "clsOpeDescVta.cs",
-              "ViewState": "AQIAAJIAAAAAAAAAAAAAAKQAAAAcAAAA",
+              "Title": "clsRnDescVta.cs",
+              "DocumentMoniker": "C:\\Users\\salak406\\Documents\\proyecto_pinata_orquideas-main\\libRnDescVta\\clsRnDescVta.cs",
+              "RelativeDocumentMoniker": "clsRnDescVta.cs",
+              "ToolTip": "C:\\Users\\salak406\\Documents\\proyecto_pinata_orquideas-main\\libRnDescVta\\clsRnDescVta.cs",
+              "RelativeToolTip": "clsRnDescVta.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAGkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T00:33:59.738Z",
+              "WhenOpened": "2025-02-21T01:21:47.627Z",
               "EditorCaption": ""
             }
           ]
